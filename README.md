@@ -8,3 +8,10 @@ The App Version of My Website Currently Has a Main Screen and 4 Buttons, 3 of th
 * **My Blog** (Link Prompt)
 * **My Games** (Link Prompt)
 * **About Me** (Auto Opens)
+
+## Guide to The Branches
+
+**Main = Version 1** <br></br>
+**Version2 = Version 2** <br></br>
+**Version3 = Version 3** <br></br>
+...and so on
